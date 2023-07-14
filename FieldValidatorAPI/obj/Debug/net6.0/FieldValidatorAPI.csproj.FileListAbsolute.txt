@@ -1,0 +1,12 @@
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.deps.json
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.dll
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.pdb
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.dll
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\refint\FieldValidatorAPI.dll
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.pdb
+C:\Users\facundo.vega\source\repos\Training\FieldValidatorAPI\obj\Debug\net6.0\ref\FieldValidatorAPI.dll
